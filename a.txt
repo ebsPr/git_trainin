@@ -4,3 +4,4 @@ aaaaaaaaaaaaaa
 test
 
 branch2
+branch4 rebase
